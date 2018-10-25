@@ -28,9 +28,7 @@ site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
         </div>
       </div>
       <div class="card__content">
-        <div>
-          {{ post.excerpt }}
-        </div>
+        {{ post.excerpt }}
       </div>
     </div>
   {% endfor %}
