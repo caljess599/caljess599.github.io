@@ -2,22 +2,6 @@
 layout: default
 title: Blog
 ---
-<!-- {% assign postsByYear = 
-site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
- -->
-
-<!-- <div>
-  {% for year in postsByYear %}
-    <h1>{{ year.name }}</h1>
-    <ul>
-      {% for post in year.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a>
-        <p>{{ post.excerpt }}</p></li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-</div> -->
-
 <div class="card__container">
   {% for post in site.posts %}
     <div class="card">
@@ -28,7 +12,7 @@ site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
         </div>
       </div>
       <div class="card__content">
-        {{ post.excerpt | truncatewords: 6 }}
+        {{ post.excerpt | truncatewords: 20 }}
       </div>
     </div>
   {% endfor %}
