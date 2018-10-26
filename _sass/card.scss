@@ -15,6 +15,10 @@
       margin-left: 20px;
     }
   }
-  &__header {}
-  &__content {}
+  &__header {
+    color: green;  
+  }
+  &__content {
+    color: grey;
+  }
 }
