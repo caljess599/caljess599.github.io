@@ -1,5 +1,6 @@
 <nav>
   {% for item in site.data.navigation %}
+  	<!-- current doesn't exist, but could if we wanted to -->
     <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </nav>

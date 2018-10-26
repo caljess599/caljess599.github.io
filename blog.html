@@ -12,7 +12,9 @@ title: Blog
         </div>
       </div>
       <div class="card__content">
-        {{ post.excerpt | truncatewords: 20 }}
+        <div class="post__excerpt">
+          {{ post.excerpt | truncatewords: 20 }}
+        </div>
       </div>
     </div>
   {% endfor %}
