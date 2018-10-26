@@ -4,9 +4,7 @@ date: 2011-12-19 19:38:00
 title: "On A Room of One's Own"
 ---
 
-> Come back soon, you've been damn brave.
-
-> —Said to Alice, leaving the bookstore
+> Come back soon, you've been damn brave. —Said to Alice, leaving the bookstore
 
 Between the walk into town, the chaos of a labyrinthine bookstore, the crowded vastness of a University library's stacks, and the drenching of a summer thunderstorm, a whole day can be spent in the acquisition of books and the completion, at last in dryness, of one slim volume trudged home. <!--more--> While unlike the magical purse of Mary Beton, my checkbook will not "breed ten-shilling notes automatically" for life, for the time being, I am enjoying the creative freedom Woolf summarized in October 1929 by the material things that would have then made it possible for women: money (£500 a year, not in salary, but as income) and private, physical space (the room of one's own). And so it seemed fitting to turn back to this essay, to reflect in gratitude for the possibilities of this present time.
 

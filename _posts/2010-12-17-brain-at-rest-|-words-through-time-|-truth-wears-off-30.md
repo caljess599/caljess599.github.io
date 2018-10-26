@@ -4,11 +4,10 @@ date: 2010-12-17 17:37:44
 title: Brain at rest | Words through time | Truth wears off
 ---
 
-* Your brain has a default network that is always on but needs idle time, which it gets in nondreaming sleep as well as during intense and focused intellectual activity. (Is this like saying TV is bad for you?)
-* Words go in and out of style--you knew that, but now there's a (google) app for that. Go, digital humanities, go!
-* Don't believe everything you think. Or rather, what you believe is what you think. Even scientists know about taking things on faith.
-
+> Your brain has a default network that is always on but needs idle time, which it gets in nondreaming sleep as well as during intense and focused intellectual activity. (Is this like saying TV is bad for you?)
 <!--more-->
+> Words go in and out of style--you knew that, but now there's a (google) app for that. Go, digital humanities, go!
+>  Don't believe everything you think. Or rather, what you believe is what you think. Even scientists know about taking things on faith.
 
 The New York Times, Dec. 13, 2010: "[Insights Give Hope for New Attack on Alzheimer's](http://www.nytimes.com/2010/12/14/health/14alzheimers.html)"
 
