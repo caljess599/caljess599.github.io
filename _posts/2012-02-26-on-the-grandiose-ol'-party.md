@@ -1,0 +1,44 @@
+---
+date: 2012-02-26 20:45:27
+title: On the Grandiose Ol' Party
+---
+
+### Fly me to the moon
+Judging by the remaining Republican presidential candidates, I don't think we can count on anyone average running for high office ever again. Romney's a loaded Mormon, Gingrich's a serially adulterous Washington insider, Santorum's only had sex for purposes of procreation, and Ron Paul thinks the elimination of the Fed and other entire government agencies will solve all our problems. Not only has Reagan left the building, if he were alive and well now, he'd think the GOP had left the planet.
+
+<!--more-->
+This of course, is actually part of Newt's plan, as Newt has promised that we will have a permanent moon base by the end of his second term. Talk about counting your space chickens prematurely -- sure, we've been to the moon before, but Newt's only won one primary. (And reportedly is significantly behind Romney in Florida, where the primary is tomorrow.)
+
+As [this video intimates](http://www.youtube.com/watch?v=KR7ACqPpbu0), Newt's moonshot is just one more chuckle in the laugh-in that we nasty 'liberal elites' are enjoying. The possibility of a Newt candidacy is as welcomed by the Democrats as it is feared by the Republican establishment; indeed, polls bear out the feeling that, in the fall, [Obama would trounce Gingrich](http://www.realclearpolitics.com/epolls/2012/president/us/general_election_gingrich_vs_obama-1453.html) on his way to an easy re-election.
+
+The sinister nature of both [Newt's personality](http://opinionator.blogs.nytimes.com/2012/01/26/deconstructing-a-demagogue/) and his [campaign tactics](http://loyalopposition.blogs.nytimes.com/2012/01/29/catchy-slogans-sloppy-ideas/) have already been detailed. Clearly, he's got issues with grandiosity, an accusation he wears like a badge of honor as he stokes a crowd until it flames with anger. There never seems to be a shortage of voters who are mad as hell and ready to throw the bastards out, not realizing (or not caring?) that they are voting for the bastards they threw out the time before last. (Or, in this case, the bastard who resigned in disgrace in late 1998.)
+
+I can't say I understand why dissing Obama as a 'food-stamp president' and Gingrich's encouragement of low-wage jobs for children attracts voters who are, professedly, among the most religious of folk. Perhaps it goes back to the age-old puzzle of the relationship between goodness and fortune; Job gets fed the standard line that the reason for his misfortune must be his wickedness, even if we are told upfront that this is not the case.
+
+Americans seem particularly vulnerable to the myth that good things happen to good people, and the main requirement of goodness in America is hard work with a smile on your face. This is all well and good, if you can find a job, and if that job allows you to keep your dignity. (Work changes its character pretty dramatically in less dignified conditions; just look at [Apple's factories in China](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html).)
+
+That fortune smiles on the good worker is the fantasy that is promoted every week on the Sunday TV show [Undercover Boss](http://www.cbs.com/shows/undercover_boss/), where bosses reward enthusiastic employees with amazingly generous bonuses (money, new cars, trips) while tsk-tsking employees who, while perfectly competent at their often grueling jobs, don't meet the idealistic 'good attitude' expectations of the boss.
+
+While the show is often heart-warming, it is sad to see that this is the American idea of charity: gifts meted out by corporate-types to their most 'deserving' employees. In the spirit of the left hand not knowing what the right is doing, this isn't charity, it's an hour-long commercial. It's the feel-good complement to Newt's outrage that low-income people (whose deservingness is not only unknown, but most likely suspect) are receiving food stamps.
+
+### I don't want your freedom
+On last Sunday's Undercover Boss, the new president of Kendall Jackson Wines, Rick Tigner, is suddenly moved by the plight of the single mother who doesn't get health insurance; despite the fact that she works 6 days a week in one of the company's tasting rooms, she is classed as a part-time employee. Rather than touching, Tigner's sympathy comes off as ludicrous, given that it is well known that part-time employees are typically not offered the benefits of full-timers.
+
+In the Jacksonville Republican debate, the candidates seemed to agree that the solution to the healthcare crisis was to allow health insurance to be individual, that is, not tied to one's employment, with Gingrich supporting the idea that individuals be allowed to purchase insurance at the same discount that employers get. In theory, this sounds like a great alternative to the 'government-run' healthcare that conservatives decry (except when it's called 'Medicare'). The devil is in the details, however: the insurance companies would have to be legally mandated to do this, because clearly if it were advantageous for them to do so now, they would have done so. There's certainly no law against them doing so. And if you think that they aren't going to lobby heavily against legislation that would lower their profits, you've got another thing coming.
+
+But the most mind-boggling kvetching was done by Rick Santorum, who assailed Romney for the system he helped implement in Massachusetts, under which each resident is mandated to buy insurance (with assistance if needed) or pay a fine to offset the costs incurred by the state for their eventual care (as no hospital can refuse urgent care based on an inability to pay).
+
+As you can see [in this clip](http://www.youtube.com/watch?v=9sj5HcoGK2w&amp;hd=1&amp;t=1h3m3s), Santorum gets red in the face with outrage about the fact that "the government is going to mandate you buy something that's a condition of breathing," as if 'Romneycare,' passed by the state legislature, constituted some sort of constitutional affront—which it indeed may, by the reasoning of our very conservative Supreme Court. We'll see.
+
+While the argument that the state mandates we do an entire host of things may not pass constitutional muster, it doesn't make any sense to me why this kind of outrage would woo voters. If you already have health insurance, this issue is moot. And if you don't, chances are that's because you can't afford it, in which case, you'd probably be delighted to receive coverage rather than outraged on grounds of 'freedom'. And to add insult to injury, this freedom cry is issued by someone who wants to keep many consensual sex acts illegal and make birth control unavailable. What happened to states' rights now, Rick?
+
+### I believe in yesterday
+My favorite person at the debate on Thursday was Ron Paul, who gave us lots of chuckles by calling spades spades. In the discussion on Cuba, [Paul spoke from an anti-bogeyman perspective](http://www.youtube.com/watch?v=9sj5HcoGK2w&amp;t=1h24m10s) that would have been considered treasonous on a Republican stage even a decade ago.
+
+If Paul wasn't so set on the gold standard, his down-to-earth perspective on international relations would probably win him a lot of votes. But even if it doesn't woo anyone, it makes Santorum, in full-blown Communist freakout mode, look plainly paranoid. It also has the effect of rendering rather flaccid Mitt Romney's main argument against Obama, namely that he believes in American exceptionalism and Obama doesn't—and that's what this election is about.
+
+If you ignore the narcissist ambitions of Gingrich and the pseudo-Puritan rantings of Santorum, remaining on stage is Ron Paul calling it like it is and Mitt Romney trying to win the 2012 election with the rhetoric of 1984. It's not just that he is out of touch, ridiculously wealthy, or doesn't drink coffee. It's that he's out there hawking the Star Wars version of America, where we save the world from evil with our might and freedom.
+
+While Romney will likely win the nomination, he is unlikely to inspire passion in voters, as he's offering a philosophy that just doesn't sell anymore. Rebuilding our Navy is not going to solve any of our major problems. We already spend [more money on our military than all other nations in the world combined](http://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures), and while we may have beat the Soviets, lately our might hasn't been making much right, here or anywhere. Besides, Obama got Osama, so the days of making the Democrats look weak on national security are over.
+
+If the best Republicans have to offer is moon colonies, a bloated military, and the 'freedom' not to have healthcare, I think it's time they considered a new nickname.
