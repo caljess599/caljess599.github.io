@@ -3,7 +3,8 @@ date: 2013-08-11 07:54:19
 title: On Uses and Dispensations
 ---
 
-> Money should be spent trying out concepts that shatter current structures and systems that have turned much of the world into one vast market. Is progress really Wi-Fi on every street corner? No. It's when no 13-year-old girl on the planet gets sold for sex. But as long as most folks are patting themselves on the back for charitable acts, we've got a perpetual poverty machine. —Peter Buffett, "The Charitable-Industrial Complex"
+> Money should be spent trying out concepts that shatter current structures and systems that have turned much of the world into one vast market. Is progress really Wi-Fi on every street corner? No. It's when no 13-year-old girl on the planet gets sold for sex. But as long as most folks are patting themselves on the back for charitable acts, we've got a perpetual poverty machine. 
+#### —Peter Buffett, "The Charitable-Industrial Complex"
 
 ### Stuck in the Middle World
 In _The God Delusion_, Richard Dawkins's latest book decrying the absurdities of religion and denying the existence of God, the author uses the term 'Middle World' to describe the world within a human-scale frame of reference. By middle, Dawkins means to indicate that our brains have developed in response to objects that are neither very small (microorganisms) or very big (astral bodies), but that are in the middle (trees, elephants, mice, grain). While we may understand through science the true nature of matter—namely that it is mostly emptiness—this is not the way our brains have evolved to think naturally.

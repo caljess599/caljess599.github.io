@@ -3,14 +3,13 @@ date: 2012-05-11 19:18:05
 title: On Marriage
 ---
 
-> Nostalgia is to our memories what Netflix is to 70s television—it's exactly as we remember it, but without the annoying commercials. —Alice
+> Nostalgia is to our memories what Netflix is to 70s television—it's exactly as we remember it, but without the annoying commercials. 
+#### —Alice
 
 ### Wife
 I am serials monogamist—that is, I fall in love with men on TV, one after the other. My latest crush is incredibly retro but also uncannily timed: Rock Hudson, or rather, Stewart "Mac" McMillan as played by Hudson in the TV series ["McMillan &amp; Wife"](http://en.wikipedia.org/wiki/McMillan_%26_Wife). McMillan, the 40-ish police commissioner of San Francisco, is assisted in his crime-solving career by his indefatigable wife, the lovely 20-something Sally (Susan Saint James).
 
-<The May-July relationship on display here between the over-accomplished Mac and the woman who finally turned him from unapologetic heartbreaker to devoted husband is so charming as to rise to the level of myth, namely The Myth of Miraculous Heterosexuality. Mac and Sally cannot keep their hands or their innuendoes off of one another—they want one another, frequently and unapologetically. Despite the visual chastity of 70s television (compared to today), the McMillan's marital chemistry is continuously on display and constitutes the show's fulcrum.
-
-<!--more-->
+The May-July relationship on display here between the over-accomplished Mac and the woman who finally turned him from unapologetic heartbreaker to devoted husband is so charming as to rise to the level of myth, namely The Myth of Miraculous Heterosexuality. Mac and Sally cannot keep their hands or their innuendoes off of one another—they want one another, frequently <!--more-->and unapologetically. Despite the visual chastity of 70s television (compared to today), the McMillan's marital chemistry is continuously on display and constitutes the show's fulcrum.
 
 Before I explain what I mean by the MoMH, you need to understand that I have a more general theory about mystery shows, which is that shows about murder are really shows about family values. You wouldn't know it now, what with today's crime shows obsessed with psychopaths, gruesome graphics, and fanciful only-on-TV technology, if not all three, but once upon a time people on TV murdered people they knew for the classic, banal reasons people have always murdered: anger, jealousy, greed. Murder was personal, not technological, and the people who solved these crimes were set apart not by their knowledge of bugs or ballistics but by their moral rectitude, by which I mean our total confidence that they would never be swayed by those base motives to commit such crimes.
 

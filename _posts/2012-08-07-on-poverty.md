@@ -3,15 +3,12 @@ date: 2012-08-07 18:23:33
 title: On Poverty
 ---
 
-> Let us remark, by the way, that the hatred of luxury is not an intelligent hatred. This hatred would involve the hatred of the arts. Nevertheless, in churchmen, luxury is wrong, except in connection with representations and ceremonies. [...] An opulent priest is a contradiction. The priest must keep close to the poor. Now, can one come in contact incessantly night and day with all this distress, all these misfortunes, and this poverty, without having about one's own person a little of that misery, like the dust of labor? Is it possible to imagine a man near a brazier who is not warm? Can one imagine a workman who is working near a furnace, and who has neither a singed hair, nor blackened nails, nor a drop of sweat, nor a speck of ashes on his face? The first proof of charity in the priest, in the bishop especially, is poverty.
-
-> This is, no doubt, what the Bishop of D--- thought. —
-[Victor Hugo](http://www.amazon.com/Mis%C3%A9rables-Unabridged-Historical-Biography-ebook/dp/B008KFOFHG) _Les Misérables_ (I.1.XI)
+> Let us remark, by the way, that the hatred of luxury is not an intelligent hatred. This hatred would involve the hatred of the arts. Nevertheless, in churchmen, luxury is wrong, except in connection with representations and ceremonies. [...] An opulent priest is a contradiction. The priest must keep close to the poor. Now, can one come in contact incessantly night and day with all this distress, all these misfortunes, and this poverty, without having about one's own person a little of that misery, like the dust of labor? Is it possible to imagine a man near a brazier who is not warm? Can one imagine a workman who is working near a furnace, and who has neither a singed hair, nor blackened nails, nor a drop of sweat, nor a speck of ashes on his face? The first proof of charity in the priest, in the bishop especially, is poverty. This is, no doubt, what the Bishop of D-- thought. 
+#### —[Victor Hugo](http://www.amazon.com/Mis%C3%A9rables-Unabridged-Historical-Biography-ebook/dp/B008KFOFHG) _Les Misérables_ (I.1.XI)
 
 ### The longest war
-Last month in _The New York Times_, [Peter Edelman penned an op-ed piece about poverty](http://www.nytimes.com/2012/07/29/opinion/sunday/why-cant-we-end-poverty-in-america.html), specifically, about why it has been so difficult to eradicate in America, the wealthiest nation on earth.
+Last month in _The New York Times_<!--more-->, [Peter Edelman penned an op-ed piece about poverty](http://www.nytimes.com/2012/07/29/opinion/sunday/why-cant-we-end-poverty-in-america.html), specifically, about why it has been so difficult to eradicate in America, the wealthiest nation on earth.
 
-<!--more-->
 Edelman's diagnosis regarding the persistence of poverty will come as no surprise to liberals: there are too many low-wage jobs, wages in such low-earning jobs remain stagnant, and relief programs that keep people out of poverty (i.e., welfare) have been scaled back or eliminated. Certainly there has been economic growth in recent decades, and even in recent years, but its benefits have been almost exclusively confined to the top income earners, the now infamous 1%.
 
 The attitude behind Edelman's outlook is that capitalism makes some rich and leaves others poor; the role of government is thus to counteract the latter effect through a redistribution of wealth. From this perspective, poverty is understood intuitively as a negative outcome that society has an obligation to combat.

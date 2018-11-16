@@ -1,6 +1,6 @@
 .card {
   width: 375px;
-  height: 575px;
+  height: 425px;
   padding: 10px;
   overflow: hidden;
   border: 1px solid #333;
@@ -11,12 +11,34 @@
     display: flex;
     flex-wrap: wrap;
 
+    & > .card {
+      margin-left: 20px
+    }
+
     & > .card + .card {
       margin-left: 20px;
+      margin-bottom: 20px;
     }
   }
-  &__header { 
-  }
+  &__header {
+    margin-bottom: 5px; 
+    a {
+      font-size: 1.3em;
+      color: #7b8aaf;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #f149a3;
+    }
+  }  
+  &__date {
+    font-family: serif;
+    font-size: .9em;
+    font-weight: bold;
+    color: #f149a3;
+    float: right;
+  }  
+  
   &__content {
   }
 }

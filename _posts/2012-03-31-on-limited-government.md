@@ -3,9 +3,11 @@ date: 2012-03-31 19:11:43
 title: On Limited Government
 ---
 
-> The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. The protection of these faculties is the first object of government. From the protection of different and unequal faculties of acquiring property, the possession of different degrees and kinds of property immediately results; and from the influence of these on the sentiments and views of the respective proprietors, ensues a division of the society into different interests and parties. —James Madison, [The Federalist _No. 10_](http://www.constitution.org/fed/federa10.htm)
+> The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. The protection of these faculties is the first object of government. From the protection of different and unequal faculties of acquiring property, the possession of different degrees and kinds of property immediately results; and from the influence of these on the sentiments and views of the respective proprietors, ensues a division of the society into different interests and parties. 
+#### —James Madison, [The Federalist _No. 10_](http://www.constitution.org/fed/federa10.htm)
 
-> To those who would argue that "personal" rights are more sacrosanct than "property" rights, the short answer is that the Constitution makes no such distinction. To the argument made by Thurgood Marshall that a majority may not deprive a minority of its constitutional right, the answer must be made that while this is sound in theory, in the long run it is the majority who will determine what the constitutional rights of the minority are. —William H. Rehnquist, [A Random Thought on the Segregation Cases](http://www.gpo.gov/fdsys/pkg/GPO-CHRG-REHNQUIST/pdf/GPO-CHRG-REHNQUIST-4-16-6.pdf)
+> To those who would argue that "personal" rights are more sacrosanct than "property" rights, the short answer is that the Constitution makes no such distinction. To the argument made by Thurgood Marshall that a majority may not deprive a minority of its constitutional right, the answer must be made that while this is sound in theory, in the long run it is the majority who will determine what the constitutional rights of the minority are. 
+#### —William H. Rehnquist, [A Random Thought on the Segregation Cases](http://www.gpo.gov/fdsys/pkg/GPO-CHRG-REHNQUIST/pdf/GPO-CHRG-REHNQUIST-4-16-6.pdf)
 
 <!--more-->
 

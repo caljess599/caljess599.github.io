@@ -3,14 +3,13 @@ date: 2012-11-06 23:40:16
 title: On Election Day
 ---
 
-> But I say to you, Do not swear at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not swear by your head, for you cannot make one hair white or black. Let your word be 'Yes, yes' or 'No, no'; anything more than this comes from the evil one. —Matt. 5.35-37</p>
+> But I say to you, Do not swear at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not swear by your head, for you cannot make one hair white or black. Let your word be 'Yes, yes' or 'No, no'; anything more than this comes from the evil one. 
+#### —Matt. 5.35-37
 
 ### Resigned
-I began this post yesterday, long before Obama was projected to win reelection. In the different world that yesterday now seems to me, I gave a few hours to the campaign — a token effort, in large respect — simply to preserve the right to kvetch for the next four years if things didn't go our way.
+I began this post yesterday, long before Obama was projected to win reelection. In the different world that yesterday now seems to me, I gave a few hours to the campaign—a token effort, in large respect—simply to preserve the right to kvetch for the next four years if things didn't go our way.
 
-This fall has been a busy one for me; I'm in the midst of an unusual, even experimental transition toward putting writing at the center of my life. I've been working part-time for a while now, and recently I just picked up my third part-time position, motivated by a rare opportunity to receive (after 3 months of work) benefits, including health insurance. Though I'll be working in retail rather than in the education sphere, I am much more enthused by the possibility of reasonably-priced health care than I am convinced by the possibilities of remaining (however tenuously) in my "field".
-
-<!--more-->
+This fall has been a busy one for me; I'm in the midst of an unusual, even experimental transition toward putting writing at the center of my life. I've been working part-time for a while now, and recently I just picked up my third part-time position<!--more-->, motivated by a rare opportunity to receive (after 3 months of work) benefits, including health insurance. Though I'll be working in retail rather than in the education sphere, I am much more enthused by the possibility of reasonably-priced health care than I am convinced by the possibilities of remaining (however tenuously) in my "field".
 
 As the above graphic indicates, I've been keeping my eyes peeled for quite a while now. Yesterday, I decided it was time to avert my eyes for a while; nor will I renew my membership in the Modern Language Association, the professional organization for professors and scholars in English and foreign languages and literature. After 10 years, I've proven to myself that while I would have gladly accepted — and probably would have enjoyed, and thrived at — a full-time position as a professor, I cannot bring myself to pursue the profession with the single-mindedness the current job market demands. Call me naive, but I got my Ph.D. because I thought it would lead rather naturally to a job for which by temperament and training I was suited. It turns out that the degree resembled the kind of parking permits sold by the University where I got it — a license to hunt, but not a guaranteed space.
 

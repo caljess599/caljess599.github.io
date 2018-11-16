@@ -3,11 +3,40 @@
   // Elements
   &__excerpt {
     h3 {
-      
+      margin-bottom: 2px;
+      font-size: 1.0em;
+      a {
+        color: #7b8aaf;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #f149a3;
+      }
+    }
+    h4 {
+      margin: 0 0 15px 5px;
+      padding-left: 10px;
+      font-family: serif;
+      font-weight: normal;
+      a {
+        color: #7b8aaf;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #f149a3;
+      }
     }
     p {
       font-family: serif;
+      line-height: 1.2em;
       margin-bottom: 5px;
+      a {
+        color: #7b8aaf;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #f149a3;
+      }
     }
     blockquote {
       margin: 0 0 5px 5px;

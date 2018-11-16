@@ -3,14 +3,14 @@ date: 2012-06-13 00:47:42
 title: On Tranquility
 ---
 
-> Hope deferred makes the heart sick, but a desire fulfilled is a tree of life. —Prov. 13:12
+> Hope deferred makes the heart sick, but a desire fulfilled is a tree of life. 
+#### —Prov. 13:12
 
-> In living close to nature, one discovers that happiness does not consist in maximizing pleasure. It consists in tranquility. Once you have enjoyed tranquility long enough, you acquire actually an aversion to the thought of any very strong pleasure—excessive pleasure would disrupt your tranquility. —Part 4, "An Interview With Ted" (Theodore J. Kaczynski)
+> In living close to nature, one discovers that happiness does not consist in maximizing pleasure. It consists in tranquility. Once you have enjoyed tranquility long enough, you acquire actually an aversion to the thought of any very strong pleasure—excessive pleasure would disrupt your tranquility. 
+#### —Part 4, "An Interview With Ted" (Theodore J. Kaczynski)
 
 ### Found in the woods
-Ted Kaczynski made bombs. He has done many other things, but it is making bombs that has made him infamous. Indeed, were it not for the concession by the FBI allowing the so-called "Unabomber Manifesto" to be published, he might have eluded the authorities for even longer than 17 years. As it happened, his brother David recognized Ted as the author of "Industrial Society and its Future" when it was published in the Washington Post in mid-September 1995, and Kaczynski was arrested in early April the following year.
-
-<!--more-->
+Ted Kaczynski made bombs. He has done many other things, but it is making bombs that has made him infamous. Indeed, were it not for the concession by the FBI allowing the so-called "Unabomber Manifesto" to be published, he might have eluded the authorities for even longer than 17 years. As it happened, his brother David recognized Ted as the author of "Industrial Society <!--more-->and its Future" when it was published in the Washington Post in mid-September 1995, and Kaczynski was arrested in early April the following year.
 
 He was arrested where he had lived since 1971, in his small wooden home in rural Montana. Kaczynski had never been fond of modern ways of living, and had already planned on living in the wilderness when he accepted a job at UC Berkeley to teach math in 1967. He taught for two years to save up some money, and then headed off to opt out of a lifestyle he found not only devoid of personal satisfaction, but also a terrible threat to both human dignity and the planet's well-being.
 

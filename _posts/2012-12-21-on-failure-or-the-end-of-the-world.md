@@ -3,17 +3,16 @@ date: 2012-12-21 20:56:17
 title: On Failure, or the End of the World
 ---
 
-> The only thing that stops a bad guy with a gun is a good guy with a gun. —
-Wayne LaPierre, CEO of the National Rifle Association
+> The only thing that stops a bad guy with a gun is a good guy with a gun. 
+#### —Wayne LaPierre, CEO of the National Rifle Association
 
-> There's always people who want there to be an apocalypse. —David Morrison, Senior Scientist of the NASA Astrobiology Institute 
+> There's always people who want there to be an apocalypse. 
+#### —David Morrison, Senior Scientist of the NASA Astrobiology Institute 
 
 ### The Fox News Effect
-So Mitt Romney lost, and the only people surprised were me and the conservative media establishment, the former who had feared Romney's victory, the latter who had predicted it. While the facile philosophy of "you can do anything if you just try hard enough" is still common enough pablum fed to schoolchildren in our idealist quest to believe in the equality of opportunity in an increasingly obviously unequal society, it's another thing to construct a right-wing propaganda machine disguised as a journalistic empire—and then start to believe the spin you're trying to sell to everyone else.
+So Mitt Romney lost, and the only people surprised were me and the conservative media establishment, the former who had feared Romney's victory, the latter who had predicted it. While the facile philosophy of "you can do anything if you just try hard enough" is still common enough pablum fed to schoolchildren in our idealist quest to believe in the equality of opportunity in an increasingly obviously unequal society, it's another thing to construct a right-wing propaganda machine disguised as a journalistic empire—and then start to believe the spin <!--more-->you're trying to sell to everyone else.
 
 As we all jump into our barrels to enjoy our ride over the so-called fiscal cliff, you'd be forgiven if you thought that the Republicans had won after all, given the way Boehner and GOP caucus is holding out on not raising taxes. Apparently, they [missed the memo](http://www.nytimes.com/2012/12/15/us/politics/redistricting-helped-republicans-hold-onto-congress.html?pagewanted=all&amp;_r=0) that informed the rest of us that the reason they held on to as many seats as they did in the House has to do not with a mandate for 2012, but Congressional district lines drawn (read: gerrymandered) in such a way that even the wildest of swing voter trends could not move them from red to blue. That's not a mandate, guys, that's a foregone conclusion.
-
-<!--more-->
 
 ### Overexposed
 While it hasn't been confirmed whether the heir and the spare are on their way together, it has been announced, to the delight of many, that The Duchess of Cambridge is now expecting. While it is the destiny of all members of the royal family to be hounded by the media, one can only imagine the digital record that will be created around the life of this next little prince or princess. While perhaps living in the public eye from an early age is an appropriate element of training for a life of public service, I am tempted to believe that privacy is fundamental to the sound development of our fragile egos. We need the safety of solitude, the protections of family and intimate relationships, in order to cope with our many imperfections — in order to learn to bear them, and ourselves, with grace. I may tease my mother about not being on Facebook, but on the other hand, I'm glad I can't go back and see what she posted when I lost my first tooth.

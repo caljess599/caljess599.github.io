@@ -4,21 +4,25 @@ title: On the Titanic
 ---
 
 > God moved out on the water
+
 > On April the 14th day
+
 > God moved out on the water
+
 > Everybody had to run and pray
 
 > Many hearts surrender
-> On the sea, on the sea
-> Many hearts surrender
-> Singing 'Nearer My God to Thee'
 
-> A _Titanic_ song (lyrics recalled from memory)
+> On the sea, on the sea
+
+> Many hearts surrender
+
+> Singing 'Nearer My God to Thee'
+#### —A _Titanic_ song (lyrics recalled from memory)
 
 Today is the 100th anniversary of the RMS _Titanic_'s departure from Southampton, and the fascination with the grandeur of the ship and the grimness of the tragedy with which its name is now synonymous remain undiminished.
 
-<!--more-->
-The _Titanic_ disaster, although a century past, belongs in many ways to our modern age: the sinking of the unsinkable ship captures both the optimism of our technological hubris and the humility of our resignation to unforeseen circumstances.
+The _Titanic_ disaster, although a century past, belongs in many ways to our modern age: the sinking of the unsinkable ship captures both the optimism of our technological hubris and the humility of our resignation to unforeseen circumstances.<!--more-->
 
 Today is also the day that Rick Santorum [announced the suspension of his presidential campaign](http://video.nytimes.com/video/2012/04/10/us/politics/100000001481150/rick-santorum-suspends-his-campaign.html). Considering that this moment was both inevitable and incredibly overdue, the timing of this announcement was better managed than much of the campaign that preceded it: his daughter Bella is out of the hospital, and the Pennsylvania primary is still a respectable fortnight away. He can put family first as well as avoid what would have been a needless exercise in humiliation—(another, if you count 2006) repudiation by his 'home' state voters. (The Santorums actually live in Virginia now.)
 

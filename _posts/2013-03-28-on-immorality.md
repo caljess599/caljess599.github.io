@@ -3,13 +3,12 @@ date: 2013-03-28 22:08:08
 title: On Immorality
 ---
 
-> Oscar Wilde and Alfred Taylor, the crime of which you have been convicted is so bad that one has to put stern restraint upon one's self to prevent one's self from describing, in language which I would rather not use, the sentiments which must rise in the breast of every man of honor who has heard the details of these two horrible trials.  That the jury has arrived at a correct verdict in this case I cannot persuade myself to entertain a shadow of a doubt...
+> Oscar Wilde and Alfred Taylor, the crime of which you have been convicted is so bad that one has to put stern restraint upon one's self to prevent one's self from describing, in language which I would rather not use, the sentiments which must rise in the breast of every man of honor who has heard the details of these two horrible trials.  That the jury has arrived at a correct verdict in this case I cannot persuade myself to entertain a shadow of a doubt... 
 
 > It is no use for me to address you.  People who can do these things must be dead to all sense of shame, and one cannot hope to produce any effect upon them.  It is the worst case I have ever tried.  That you, Taylor, kept a kind of male brothel it is impossible to doubt.  And that you, Wilde, have been the center of a circle of extensive corruption of the most hideous kind among young men, it is equally impossible to doubt.
-
-> I shall, under the circumstances, be expected to pass the severest sentence that the law allows.  In my judgment it it totally inadequate for a case such as this.  The sentence of the Court is that each of you be imprisoned and kept to hard labor for two years. —[sentence of Justice Wills](ttp://law2.umkc.edu/faculty/projects/ftrials/wilde/sentence.html) against Oscar Wilde and Alfred Taylor after a jury verdict of guilty on the charge of "gross indecencies" (London, 1895)
-
 <!--more-->
+> I shall, under the circumstances, be expected to pass the severest sentence that the law allows.  In my judgment it it totally inadequate for a case such as this.  The sentence of the Court is that each of you be imprisoned and kept to hard labor for two years. 
+#### —[sentence of Justice Wills](ttp://law2.umkc.edu/faculty/projects/ftrials/wilde/sentence.html) against Oscar Wilde and Alfred Taylor after a jury verdict of guilty on the charge of "gross indecencies" (London, 1895)
 
 > **CHIEF JUSTICE ROBERTS**: So 84 Senators—it's the same question I asked before; 84 Senators based their vote [for DOMA] on moral disapproval of gay people?
 
