@@ -5,6 +5,7 @@
   overflow: hidden;
   border: 1px solid #333;
   border-radius: 5px;
+  overflow-y: auto;
 
   // Elements
   &__container {
@@ -40,5 +41,6 @@
   }  
   
   &__content {
+//  height: 400px;
   }
 }

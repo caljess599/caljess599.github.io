@@ -22,7 +22,7 @@ title: On the Titanic
 
 Today is the 100th anniversary of the RMS _Titanic_'s departure from Southampton, and the fascination with the grandeur of the ship and the grimness of the tragedy with which its name is now synonymous remain undiminished.
 
-The _Titanic_ disaster, although a century past, belongs in many ways to our modern age: the sinking of the unsinkable ship captures both the optimism of our technological hubris and the humility of our resignation to unforeseen circumstances.<!--more-->
+The _Titanic_ disaster, although a century past, belongs in many ways to our modern age: the sinking of the unsinkable ship captures both the optimism of our technological hubris and the humility of our resignation to unforeseen circumstances.
 
 Today is also the day that Rick Santorum [announced the suspension of his presidential campaign](http://video.nytimes.com/video/2012/04/10/us/politics/100000001481150/rick-santorum-suspends-his-campaign.html). Considering that this moment was both inevitable and incredibly overdue, the timing of this announcement was better managed than much of the campaign that preceded it: his daughter Bella is out of the hospital, and the Pennsylvania primary is still a respectable fortnight away. He can put family first as well as avoid what would have been a needless exercise in humiliation—(another, if you count 2006) repudiation by his 'home' state voters. (The Santorums actually live in Virginia now.)
 

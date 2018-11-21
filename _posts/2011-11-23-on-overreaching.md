@@ -7,7 +7,7 @@ title: On Overreaching
 #### —[Susan Bialek, 7 Nov 2011](http://www.politico.com/news/stories/1111/67772_Page2.html)
 
 ### Free at Last
-At first I was delighted that Herman Cain's serial sexual harassment of women took a toll on his popularity. But as Newt Gingrich supplanted him as the front-runner for the GOP presidential nomination, my delight turned back to dismay. Not that I thought Cain's workplace misdeeds disqualified him to be President. His arrogance, ignorance, inexperience, and conservatism-poorly-disguised-as-populism <!--more-->disqualify him—or at least would, if we weren't living in the topsy-turvy political world known as the Republican Presidential Nomination Process, aka, the Race to the Bottom of the Barrel.
+At first I was delighted that Herman Cain's serial sexual harassment of women took a toll on his popularity. But as Newt Gingrich supplanted him as the front-runner for the GOP presidential nomination, my delight turned back to dismay. Not that I thought Cain's workplace misdeeds disqualified him to be President. His arrogance, ignorance, inexperience, and conservatism-poorly-disguised-as-populism disqualify him—or at least would, if we weren't living in the topsy-turvy political world known as the Republican Presidential Nomination Process, aka, the Race to the Bottom of the Barrel.
 
 I actually watched the hour of the debate on November 12 that was televised on CBS. And the only candidate that seemed even remotely humble, reasonable, and knowledgeable enough to belong on that stage is Jon Huntsman, whom most people probably haven't even heard of. The other major candidates could have been bested by prep-school debaters, in terms of polish, directness, and knowledge of the subject matter.
 

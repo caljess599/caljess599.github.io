@@ -9,7 +9,6 @@ title: On Purpose
 ### Boobs and Babies
 This public reminder that breasts have a "sexual purpose" has got to be the best news of last week. I groaned in bed when NPR reported the government-led violence in Syria and the passage in my new home state of a bill that will require voters to show picture ID at the polls. Such bad news in the morning made me all the more thrilled to hear that evening that the [Ninth Circuit Court of Appeals had upheld](http://www.nytimes.com/2012/02/08/us/marriage-ban-violates-constitution-court-rules.html) (2-1) the California Supreme Court decision regarding the unconstitutionality of Proposition 8 (the referendum that changed the state constitution to outlaw same-sex marriage).
 
-<!--more-->
 You'll have to hold fast to your joy, though, [as you listen to John Eastman](http://www.pbs.org/newshour/bb/law/jan-june12/prop8_02-07.html) (from the National Organization for Marriage) defend the stance that there is no right to same-sex marriage because it is not procreative in the way of opposite-sex marriage.
 
 > The reason [for reversal] would be the -- the reason would be the right of the people to decide for themselves a very fundamental policy question about whether we're going to continue to have an institution of marriage that is rooted in biology, with a purpose of procreation, as it always has been, or whether we're going to allow the courts to mandate a dramatic alteration of that institution, with potentially devastating consequences to society.

@@ -9,8 +9,6 @@ title: On Limited Government
 > To those who would argue that "personal" rights are more sacrosanct than "property" rights, the short answer is that the Constitution makes no such distinction. To the argument made by Thurgood Marshall that a majority may not deprive a minority of its constitutional right, the answer must be made that while this is sound in theory, in the long run it is the majority who will determine what the constitutional rights of the minority are. 
 #### —William H. Rehnquist, [A Random Thought on the Segregation Cases](http://www.gpo.gov/fdsys/pkg/GPO-CHRG-REHNQUIST/pdf/GPO-CHRG-REHNQUIST-4-16-6.pdf)
 
-<!--more-->
-
 ### A House Divided
 Among historic presidential houses, James Madison's [Montpelier](http://www.montpelier.org/) is somewhat of an outlier. While its nearby confederates Monticello and Mount Vernon both experienced periods of abandonment and disrepair before their respective renaissances, the 22-room house at Montpelier was built up into a 55-room, 12-bath mansion by the duPont family, following their purchase of the property in 1901.
 

@@ -7,7 +7,7 @@ title: On New Beginnings
 #### —Jeremiah 31:31-34
 
 ### Back to School
-Fall is in the air, and the coolness after a fairly lush summer make for a gloriously verdant few weeks, a miraculous interregnum between the miserable humidity <!--more-->of August and the changing colors and darker days of full-blown autumn.
+Fall is in the air, and the coolness after a fairly lush summer make for a gloriously verdant few weeks, a miraculous interregnum between the miserable humidity of August and the changing colors and darker days of full-blown autumn.
 
 Although I still teach on the semester schedule that has regulated the majority of my years, it no longer has the same internal pull that it once did. After many years of the academic lifestyle, work knows no season for me now. Thus the association between fall and renewal now comes more from the Jewish New Year and the refreshing break in East Coast summer heat.
 

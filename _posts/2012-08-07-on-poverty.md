@@ -7,7 +7,7 @@ title: On Poverty
 #### —[Victor Hugo](http://www.amazon.com/Mis%C3%A9rables-Unabridged-Historical-Biography-ebook/dp/B008KFOFHG) _Les Misérables_ (I.1.XI)
 
 ### The longest war
-Last month in _The New York Times_<!--more-->, [Peter Edelman penned an op-ed piece about poverty](http://www.nytimes.com/2012/07/29/opinion/sunday/why-cant-we-end-poverty-in-america.html), specifically, about why it has been so difficult to eradicate in America, the wealthiest nation on earth.
+Last month in _The New York Times_, [Peter Edelman penned an op-ed piece about poverty](http://www.nytimes.com/2012/07/29/opinion/sunday/why-cant-we-end-poverty-in-america.html), specifically, about why it has been so difficult to eradicate in America, the wealthiest nation on earth.
 
 Edelman's diagnosis regarding the persistence of poverty will come as no surprise to liberals: there are too many low-wage jobs, wages in such low-earning jobs remain stagnant, and relief programs that keep people out of poverty (i.e., welfare) have been scaled back or eliminated. Certainly there has been economic growth in recent decades, and even in recent years, but its benefits have been almost exclusively confined to the top income earners, the now infamous 1%.
 

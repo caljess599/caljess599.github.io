@@ -9,7 +9,7 @@ title: On Disability
 ### Your attention please...
 Having spent the vast majority of last week ill with a bad cold, Alice's loyal fans might suspect the mind-altering effects of cold medicine (ah, Claritin, drug of the gods!) behind this announcement: I think everything I want to say about modern culture, I can say in terms of Rick Santorum.
 
-Undeniably, my blogging obsession with this former Senator has been looming for several fortnights, but it was [David Brooks's banter with Gail Collins](http://opinionator.blogs.nytimes.com/2012/03/03/super-pac-super-bad) in the first print version of their online "Conversation" series that I think really put me over the top. <!--more-->David writes:
+Undeniably, my blogging obsession with this former Senator has been looming for several fortnights, but it was [David Brooks's banter with Gail Collins](http://opinionator.blogs.nytimes.com/2012/03/03/super-pac-super-bad) in the first print version of their online "Conversation" series that I think really put me over the top. David writes:
 
 > The odd thing is that Santorum seems to be enjoying all this. That's in part because he has a tropism for the tragic. Most of us look past bad events. We want life to look like our photo albums — a bunch of happy faces, editing out all the bad times. But Santorum seems to dwell on misfortune — the enemies the country faces, the depravity closing in on us, the unfair criticism hurled against him, the terrible things that have happened. When the campaign goes into its fallen state, he has the pleasure of seeing his tragic worldview confirmed.
 
