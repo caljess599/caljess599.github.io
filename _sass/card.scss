@@ -1,7 +1,7 @@
 .card {
-  width: 375px;
+  width: 350px;
   height: 425px;
-  padding: 10px;
+  padding: 15px;
   overflow: hidden;
   border: 1px solid #333;
   border-radius: 5px;
@@ -13,12 +13,12 @@
     flex-wrap: wrap;
 
     & > .card {
-      margin-left: 20px
+      margin-left: 25px
     }
 
     & > .card + .card {
-      margin-left: 20px;
-      margin-bottom: 20px;
+      margin-left: 25px;
+      margin-bottom: 25px;
     }
   }
   &__header {
@@ -43,6 +43,6 @@
   }  
   
   &__content {
-//  height: 400px;
+    overflow-y: auto;
   }
 }
