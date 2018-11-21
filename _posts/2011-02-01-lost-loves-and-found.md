@@ -6,10 +6,9 @@ title: "Lost (loves) and found"
 
 I don't know many people who have died, but hardly a week goes by when I don't meet someone new through his or her obituary. Recently, [NPR introduced me to Reynolds Price](http://www.npr.org/2011/01/20/133094306/novelist-professor-reynolds-price-dies), a well known Duke professor and novelist. 
 
-<!--more-->
-### Late learners
 While learning about someone interesting after you can no longer meet him or her might provoke a certain sadness among those predisposed to nostalgia, personally I lean more toward a practical analysis, and am grateful to the genre of the obituary, given that I figure I would have likely never met the person in question anyway. Obituaries, like memory itself, distill us into our purest essence, our most portable, teachable moments. And so I smiled to hear Price's maxim on the radio that morning: "You'll only regret your economies," advice he had received while in Oxford from his thesis examiner and English professor, Nevill Coghill, who had received it from his mother on her deathbed. 
 
+### Late learners
 My mother reads the obituaries without fail in the [New York Times](http://www.nytimes.com) -- our household paper of choice, which my retired father must read before my mother absconds with it on her commute. This, along with a patience for the sports pages which is clearly not genetically transmissible, clearly accounts for her immense knowledge of recent history and related arcana (details of our last match of Trivial Pursuit have been sealed to protect egos). 
 
 Indeed, it was only thanks to this habit of hers that I found out about the passing of the mother of my first boyfriend last July -- well, she passed in mid-July, but it was two weeks later when my mother called me. I woke up one morning to a voicemail relating the news. I couldn't help but notice the fact that, in some sense, my mourning was belated, out of sync with the death that provoked it. 
