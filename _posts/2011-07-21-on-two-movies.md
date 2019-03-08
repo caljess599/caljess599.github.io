@@ -1,6 +1,7 @@
 ---
 date: 2011-07-21 16:01:45
 title: On Two Movies
+layout: post
 ---
 
 <h3>Rescue Mission</h3>

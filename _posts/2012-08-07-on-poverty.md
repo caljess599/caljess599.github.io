@@ -1,6 +1,7 @@
 ---
 date: 2012-08-07 18:23:33
 title: On Poverty
+layout: post
 ---
 
 > Let us remark, by the way, that the hatred of luxury is not an intelligent hatred. This hatred would involve the hatred of the arts. Nevertheless, in churchmen, luxury is wrong, except in connection with representations and ceremonies. [...] An opulent priest is a contradiction. The priest must keep close to the poor. Now, can one come in contact incessantly night and day with all this distress, all these misfortunes, and this poverty, without having about one's own person a little of that misery, like the dust of labor? Is it possible to imagine a man near a brazier who is not warm? Can one imagine a workman who is working near a furnace, and who has neither a singed hair, nor blackened nails, nor a drop of sweat, nor a speck of ashes on his face? The first proof of charity in the priest, in the bishop especially, is poverty. This is, no doubt, what the Bishop of D-- thought. 

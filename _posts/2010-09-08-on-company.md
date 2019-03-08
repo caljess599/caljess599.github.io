@@ -1,6 +1,7 @@
 ---
 date: 2010-09-08 00:29:44
 title: On Company
+layout: post
 ---
 
 No man is an island. We are engineered, by need and desire, to be around others. This need is not necessarily identical to the desire for specific relationships, for ties that bind. Company is not identical to companionship. While companionship (in all its forms, from workout buddy to friend to lover to spouse) is about relationships, company is a practice, a social phenomenon often off our radar screens most of the time. In this day of social networking, we are often more focused on who we know, who we are connected to, than who we are around.

@@ -1,17 +1,19 @@
 ---
 date: 2011-10-10 00:00:12
 title: On Contingency
+layout: post
 ---
 
-<blockquote>It is not a choice, it is a child.</blockquote>
-<p style="text-align: right;">--Bumper sticker</p>
+> It is not a choice, it is a child.
+#### —Bumper sticker
 
-<blockquote>In some ways, the reasons for reducing [a pregnancy] to a singleton are not so different from the decision to abort a pregnancy because prenatal tests reveal anomalies. In both cases, the pregnancies are wanted, but not when they entail unwanted complications -- complications for the parents as much as the child. Many studies show the vast majority of patients abort fetuses after prenatal tests reveal genetic conditions like Down syndrome that are not life-threatening. What drives that decision is not just concern over the quality of life for the future child but also the emotional, financial or social difficulty for parents of having a child with extra needs. As with reducing two healthy fetuses to one, the underlying premise is the same: this is not what I want for my life.</blockquote>
-<p style="text-align: right;">--<a href="http://www.nytimes.com/2011/08/14/magazine/the-two-minus-one-pregnancy.html?pagewanted=6&amp;ref=magazine" target="_blank">New York Times</a></p>
+> In some ways, the reasons for reducing [a pregnancy] to a singleton are not so different from the decision to abort a pregnancy because prenatal tests reveal anomalies. In both cases, the pregnancies are wanted, but not when they entail unwanted complications—complications for the parents as much as the child. Many studies show the vast majority of patients abort fetuses after prenatal tests reveal genetic conditions like Down syndrome that are not life-threatening. What drives that decision is not just concern over the quality of life for the future child but also the emotional, financial or social difficulty for parents of having a child with extra needs. As with reducing two healthy fetuses to one, the underlying premise is the same: this is not what I want for my life.
+#### —[_The New York Times_](http://www.nytimes.com/2011/08/14/magazine/the-two-minus-one-pregnancy.html)
 
-<h3>Sex with the Sun Goddess</h3>
+
+### Sex with the Sun Goddess
 <p style="text-align: left;">I was listening to Fresh Air the other day, and Terri Gross was interviewing C. Peter Wagner, the namer of and prominent figure in the New Apostolic Reformation (NAR), a "<a href="http://www.npr.org/2011/10/03/140946482/apostolic-leader-weighs-religions-role-in-politics" target="_blank">new charismatic Christian movement that seeks to take dominion over politics, business and culture in preparation for the end times and Jesus' return.</a>" The members of this movement espouse some ideas that range from the traditional (from a religious right point of view) to the downright bizarre. Wagner, who came across as a down-to-earth religious elder type, a person more interested in spreading the Gospel than spreading hate, is nonetheless perhaps best known for the <a href="http://www.youtube.com/watch?v=3yIgZPTqUIc" target="_blank">viral video</a> in which he argues that Japan's Shinto-dominated culture is responsible for its longterm economic woes -- as well as its recent climatic ones.</p>
-<!--more-->
+
 <p style="text-align: left;">Specifically, the origin of the difficulties is in a ceremony in which the emperor, according to Wagner, has sex with the sun goddess in a ceremony called <em>diajo-sai</em>. Here is a description of the final part of the ceremony, as <a style="color: #ff4b33;" href="http://en.wikipedia.org/wiki/Enthronement_of_the_Japanese_Emperor#The_Daijo-sai" target="_blank">as described on Wikipedia</a>. Amaterasu is the Sun Goddess.</p>
 
 <blockquote>Kneeling on a mat situated to face the Grand Shrine of Ise, the emperor makes an offering of the sacred rice, the sake made from this rice, millet, fish and a variety of other foods from both the land and the sea, to Amaterasu. Then he eats some of this sacred rice himself, as an act of divine communion which consummates his singular unity with Amaterasu, thus making him (in Shinto tradition) the intermediary between Amaterasu and the Japanese people.</blockquote>

@@ -1,6 +1,7 @@
 ---
 date: 2012-03-31 19:11:43
 title: On Limited Government
+layout: post
 ---
 
 > The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. The protection of these faculties is the first object of government. From the protection of different and unequal faculties of acquiring property, the possession of different degrees and kinds of property immediately results; and from the influence of these on the sentiments and views of the respective proprietors, ensues a division of the society into different interests and parties. 

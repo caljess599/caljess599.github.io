@@ -1,7 +1,7 @@
 ---
-layout: post
 date: 2009-12-31 12:20:36
 title: "Miracolo a Milano: a numbers game"
+layout: post
 ---
 
 The miracles of *Miracolo a Milano* (1951) are multiple, and they multiply.

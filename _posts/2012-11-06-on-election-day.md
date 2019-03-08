@@ -1,6 +1,7 @@
 ---
 date: 2012-11-06 23:40:16
 title: On Election Day
+layout: post
 ---
 
 > But I say to you, Do not swear at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not swear by your head, for you cannot make one hair white or black. Let your word be 'Yes, yes' or 'No, no'; anything more than this comes from the evil one. 

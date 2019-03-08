@@ -451,6 +451,9 @@ blockquote {
     .post__excerpt blockquote p {
       font-family: serif;
       font-style: italic; }
+      .post__excerpt blockquote p strong {
+        font-style: normal;
+        font-weight: normal; }
 
 .pagetitle h1 {
   margin-left: 25px;

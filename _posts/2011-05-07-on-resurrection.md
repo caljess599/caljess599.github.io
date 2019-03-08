@@ -1,6 +1,7 @@
 ---
 date: 2011-05-07 20:45:57
 title: On Resurrection
+layout: post
 ---
 
 <p style="text-align: right;"><em>In memoriam, W. J. A.</em></p>

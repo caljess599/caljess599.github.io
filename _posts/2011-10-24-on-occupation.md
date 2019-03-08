@@ -1,6 +1,7 @@
 ---
 date: 2011-10-24 17:37:02
 title: On Occupation
+layout: post
 ---
 
 ### Wall Street

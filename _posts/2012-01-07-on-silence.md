@@ -1,6 +1,7 @@
 ---
 date: 2012-01-07 22:24:14
 title: On Silence
+layout: post
 ---
 
 > We belong to another age, you and I, George. Nowadays, the world talks.

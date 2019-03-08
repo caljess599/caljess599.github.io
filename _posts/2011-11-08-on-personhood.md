@@ -1,6 +1,7 @@
 ---
 date: 2011-11-08 12:34:07
 title: On Personhood
+layout: post
 ---
 
 > Be it Enacted by the People of the State of Mississippi: SECTION 1. Article III of the constitution of the state of Mississippi is hereby amended BY THE ADDITION OF A NEW SECTION TO READ: Section 33. Person defined. As used in this Article III of the state constitution, "The term 'person' or 'persons' shall include every human being from the moment of fertilization, cloning or the functional equivalent thereof." This initiative shall not require any additional revenue for implementation. 

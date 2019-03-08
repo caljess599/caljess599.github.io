@@ -1,6 +1,7 @@
 ---
 date: 2012-05-25 11:29:57
 title: On Tay Sachs
+layout: post
 ---
 
 > If it's one thing I hate more than prophesy, it's self-fulfilling prophesy. 

@@ -1,6 +1,7 @@
 ---
 date: 2011-02-18 22:06:32
 title: On Repugnance
+layout: post
 ---
 
 Have you ever paused to consider the ways and means of human emotions, the contours of the banks in whose beds they run, ever meandering and flowing? Lately I have found myself wondering about the meaning of repugnance, an emotion we all feel, even if we don't confess to it openly, or even to ourselves.<!--more-->Repugnance, in its purest form, is a several times removed from hatred, or fear, two emotions whose ancestral roots are in ignorance. Repugnance is more visceral, prompted by the conviction of intimacy rather than the prejudice of otherness. Often what repulses us does so, I think, because it is close to us in some way, either by belief or by experience -- and in some cases the former can be so strong as to override the absence of the latter.

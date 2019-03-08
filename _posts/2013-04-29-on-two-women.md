@@ -1,6 +1,7 @@
 ---
 date: 2013-04-29 10:20:35
 title: On Two Women
+layout: post
 ---
 
 > I think we have gone through a period when too many children and people have been given to understand "I have a problem, it is the Government's job to cope with it!"...  and so they are casting their problems on society and who is society? There is no such thing! There are individual men and women and there are families and no government can do anything except through people and people look to themselves first. 

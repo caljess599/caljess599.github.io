@@ -1,6 +1,7 @@
 ---
 date: 2010-01-17 12:30:35
 title: On Games and Guns
+layout: post
 ---
 
 Even within the exciting and glamorous realm that is professional sports, life isn't all fun and games.

@@ -1,6 +1,7 @@
 ---
 date: 2011-09-05 00:02:02
 title: On Gleaning
+layout: post
 ---
 
 The rich declare themselves poor

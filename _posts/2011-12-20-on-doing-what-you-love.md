@@ -1,6 +1,7 @@
 ---
 date: 2011-12-20 16:11:27
 title: On Doing What You Love
+layout: post
 ---
 
 > Writing is what's important to me, and anything that helps me do that—or enhances and prolongs and deepens and sometimes intensifies argument and conversation—is worth it to me... [It's] impossible for me to imagine having my life without going to those parties, without having those late nights, without that second bottle.

@@ -1,6 +1,7 @@
 ---
 date: 2011-11-23 18:08:29
 title: On Overreaching
+layout: post
 ---
 
 > I really didn't want to be here today and wouldn't have been here if it had not been for the three other women who have alleged sexual harassment against Mr. Cain. I want you, Mr. Cain, to come clean. Just admit what you did. Admit you were inappropriate to people, and then move forward. America is in a horrible turmoil as we all know. We need a leader who can set an example which exemplifies the standards of a good person and moral character. Mr. Cain, I implore you, make this right so that you and the country can move forward and focus on the real issues at hand. Thank you.

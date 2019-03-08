@@ -1,6 +1,7 @@
 ---
 date: 2012-01-17 02:52:29
 title: On Realpoetik
+layout: post
 ---
 
 > **Santorum**. 1. The frothy mix of lube and fecal matter that is

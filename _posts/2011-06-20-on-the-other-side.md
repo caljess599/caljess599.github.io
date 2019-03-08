@@ -1,6 +1,7 @@
 ---
 date: 2011-06-20 13:39:20
 title: On the Other Side
+layout: post
 ---
 
 <h3>Chance of rain</h3>

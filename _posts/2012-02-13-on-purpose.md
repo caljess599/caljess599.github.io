@@ -1,6 +1,7 @@
 ---
 date: 2012-02-13 10:37:25
 title: On Purpose
+layout: post
 ---
 
 > Normalizing breastfeeding encourages women to try it and continue doing it, whereas keeping breastfeeding as a taboo thing, confusing it with the sexual purpose of breasts, means that women are embarrassed, they're afraid to do it in public and they don't nurse for that long or they choose not to nurse at all.

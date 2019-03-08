@@ -1,6 +1,7 @@
 ---
 date: 2011-07-13 00:32:56
 title: On Conversion
+layout: post
 ---
 
 <h3>Learning to swim</h3>

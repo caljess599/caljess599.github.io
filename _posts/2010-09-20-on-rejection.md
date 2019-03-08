@@ -1,6 +1,7 @@
 ---
 date: 2010-09-20 01:33:36
 title: On Rejection
+layout: post
 ---
 
 Safe to say, no one likes to be rejected. In addition to not getting what we want, we often feel personally attacked or hurt, andwe may even begin to question our own judgment about our qualities and competencies, be it in the professional world or in the messy realms of romance. At best, we can shake off one person or one firm or one editor's opinion and find the courage and hope to move on with our mission. At worst, however, we become self-doubting, defeatist, cynical.

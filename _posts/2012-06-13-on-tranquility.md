@@ -1,6 +1,7 @@
 ---
 date: 2012-06-13 00:47:42
 title: On Tranquility
+layout: post
 ---
 
 > Hope deferred makes the heart sick, but a desire fulfilled is a tree of life. 

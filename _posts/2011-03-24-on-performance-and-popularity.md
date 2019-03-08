@@ -1,6 +1,7 @@
 ---
 date: 2011-03-24 15:21:01
 title: On Performance and Popularity
+layout: post
 ---
 
 <blockquote>"The problem with not being liked it is that it is an accident that has no scene. There are no ambulances to come to the aid of the unpopular."</blockquote>

@@ -1,6 +1,7 @@
 ---
 date: 2012-12-21 20:56:17
 title: On Failure, or the End of the World
+layout: post
 ---
 
 > The only thing that stops a bad guy with a gun is a good guy with a gun. 

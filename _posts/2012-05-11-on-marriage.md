@@ -1,6 +1,7 @@
 ---
 date: 2012-05-11 19:18:05
 title: On Marriage
+layout: post
 ---
 
 > Nostalgia is to our memories what Netflix is to 70s television—it's exactly as we remember it, but without the annoying commercials. 

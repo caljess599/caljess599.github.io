@@ -1,6 +1,7 @@
 ---
 date: 2012-09-01 15:36:32
 title: On Self-Fucking
+layout: post
 ---
 
 > Therefore I will judge you, O house of Israel, all of you according to your ways, says the lord God. Repent and turn from all your transgressions; otherwise iniquity will be your ruin. Cast away from you all the transgressions that you have committed against me, and get yourselves a new heart and a new spirit! Why will you die, O house of Israel? For I have no pleasure in the death of anyone, says the Lord God. Turn, then, and live. 

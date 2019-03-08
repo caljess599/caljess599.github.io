@@ -1,6 +1,7 @@
 ---
 date: 2012-08-26 19:12:55
 title: On Blaming the Insane
+layout: post
 ---
 
 > That James Holmes is insane, few may doubt. Our gun laws are also insane, but many refuse to make the connection. The United States is one of few developed nations that accepts the notion of firearms in public hands. In theory, the citizenry needs to defend itself. Not a single person at the Aurora, Colo., theater shot back, but the theory will still be defended. 

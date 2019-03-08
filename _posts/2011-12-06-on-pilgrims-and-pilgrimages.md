@@ -1,6 +1,7 @@
 ---
 date: 2011-12-06 15:58:55
 title: On Pilgrims and Pilgrimages
+layout: post
 ---
 
 > The LORD came down to see the city and the tower, which mortals had built. And the LORD said, "Look, they are one people, and they have all one language; and this is only the beginning of what they will do; nothing that they propose to do will now be impossible for them."

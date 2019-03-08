@@ -1,6 +1,7 @@
 ---
 date: 2011-08-01 17:31:16
 title: On swatting flies... and butterflies
+layout: post
 ---
 
 <p style="text-align: right;">"There's only three things for sure: taxes, death, and trouble."

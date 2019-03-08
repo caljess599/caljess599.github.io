@@ -1,6 +1,7 @@
 ---
 date: 2011-09-13 08:25:42
 title: On Playing for Keeps
+layout: post
 ---
 
 <blockquote>

@@ -1,6 +1,7 @@
 ---
 date: 2012-03-12 00:01:03
 title: On Disability
+layout: post
 ---
 
 > The gift that Bella gave me was the gift of looking at this disabled child who in the world's view will never be able to do anything for me other than love me. She is just a font of love as far as I'm concerned. And she made me understand that that's how the Father looks at me, disabled. Unable to do anything for him except love him. And he loves me unconditionally.

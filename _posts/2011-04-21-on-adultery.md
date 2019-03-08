@@ -1,6 +1,7 @@
 ---
 date: 2011-04-21 22:23:08
 title: On Adultery
+layout: post
 ---
 
 I never got through _[The Scarlet Letter](http://www.amazon.com/Scarlet-Letter-Writings-Critical-Editions/dp/0393979539/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1303438940&amp;sr=1-4)_. I recall falling asleep with the book on my chest during the (lengthy) first scene that describes the Custom-House. <!--more--> There is a movie called _[Easy A](http://www.rottentomatoes.com/m/easy-a/)_ for which I saw a preview a few months ago that is loosely (hehe) inspired by that American classic, but I'll resist the urge to wax sophomorically in a compare-and-contrast-vein on colonial and contemporary socio-sexual mores.

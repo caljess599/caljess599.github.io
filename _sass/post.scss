@@ -47,6 +47,10 @@
       p {
         font-family: serif;
         font-style: italic;
+        strong {
+          font-style: normal;
+          font-weight: normal;
+        }
       }
     }
     ul {

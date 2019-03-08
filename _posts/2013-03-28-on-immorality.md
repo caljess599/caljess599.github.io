@@ -1,6 +1,7 @@
 ---
 date: 2013-03-28 22:08:08
 title: On Immorality
+layout: post
 ---
 
 > Oscar Wilde and Alfred Taylor, the crime of which you have been convicted is so bad that one has to put stern restraint upon one's self to prevent one's self from describing, in language which I would rather not use, the sentiments which must rise in the breast of every man of honor who has heard the details of these two horrible trials.  That the jury has arrived at a correct verdict in this case I cannot persuade myself to entertain a shadow of a doubt... 

@@ -1,6 +1,7 @@
 ---
 date: 2011-02-28 14:33:18
 title: On Rape and Revolution
+layout: post
 ---
 
 Like many, I have been riveted by the recent upheavals in the Middle East and North Africa. The crises faced by many governments in the region truly epitomize the saying that crisis equals danger plus opportunity. For those who have no or little freedom of expression, or no or little say in how they are governed, the overthrow or ouster of their oppressors represents the ultimate opportunity, based on the greatest human hope, namely, that one can have autonomy over one's own life.

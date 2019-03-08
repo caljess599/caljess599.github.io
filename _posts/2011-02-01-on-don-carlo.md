@@ -1,6 +1,7 @@
 ---
 date: 2011-02-01 16:23:10
 title: On Don Carlo
+layout: post
 ---
 
 In tragic opera, when you fall in love, it is forever. There will be no getting over it, no moving on, and no satisfaction, either. Therefore the only possible rival—or alternative—to such love is a higher principle or virtue.

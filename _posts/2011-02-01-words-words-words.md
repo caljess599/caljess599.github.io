@@ -1,6 +1,7 @@
 ---
 date: 2011-02-01 16:10:22
 title: words | words | words
+layout: post
 ---
 
 > Violence -- whether in word or deed -- is both an inevitable human impulse and a failure of the moral imagination. That's the business we're in, as artists.

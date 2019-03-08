@@ -1,6 +1,7 @@
 ---
 date: 2013-06-01 22:14:55
 title: On Two Deaths in Two Cities
+layout: post
 ---
 
 > We must fight them as they fight us—an eye for an eye, a tooth for a tooth. I apologize that women had to witness this today, but in our land, our women have to see the same. You people will never be safe. Remove your government. They don't care about you. You think David Cameron is going to get caught in the street? When our people start busting our guns do you think the politicians are going to die? No, it's going to be the average guy, like you.

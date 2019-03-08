@@ -1,24 +1,18 @@
 ---
 date: 2012-04-16 09:34:56
 title: On the Titanic
+layout: post
 ---
 
-> God moved out on the water
-
-> On April the 14th day
-
-> God moved out on the water
-
-> Everybody had to run and pray
-
-> Many hearts surrender
-
-> On the sea, on the sea
-
-> Many hearts surrender
-
-> Singing 'Nearer My God to Thee'
-#### —A _Titanic_ song (lyrics recalled from memory)
+> God moved out on the water  
+On April the 14th day  
+God moved out on the water  
+Everybody had to run and pray  
+Many hearts surrender  
+On the sea, on the sea  
+Many hearts surrender  
+Singing 'Nearer My God to Thee'
+#### —A _Titanic_ song (from memory)
 
 Today is the 100th anniversary of the RMS _Titanic_'s departure from Southampton, and the fascination with the grandeur of the ship and the grimness of the tragedy with which its name is now synonymous remain undiminished.
 
