@@ -463,18 +463,19 @@ blockquote {
 
 .fullpage {
   width: 800px;
-  padding: 60px; }
+  padding: 10px 60px; }
   .fullpage__title h3 {
     margin-bottom: 2px;
     font-size: 2.5em;
-    color: #f149a3; }
+    color: #f149a3;
+    line-height: 1.4em; }
   .fullpage__date h4 {
     margin-bottom: 4px;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-style: italic; }
   .fullpage__content p {
     font-family: serif;
-    line-height: 1.2em;
+    line-height: 1.4em;
     margin-bottom: 5px; }
     .fullpage__content p a {
       color: #7b8aaf;
@@ -493,6 +494,7 @@ blockquote {
         font-weight: normal; }
     .fullpage__content blockquote h4 {
       margin: 0 0 15px 5px;
+      line-height: 1.4em;
       font-family: serif;
       font-weight: normal; }
       .fullpage__content blockquote h4 a {
@@ -501,6 +503,7 @@ blockquote {
       .fullpage__content blockquote h4 a:hover {
         color: #f149a3; }
   .fullpage__content h3 {
+    padding-top: 10px;
     margin-bottom: 2px;
     font-size: 1.3em;
     color: #1a44ad; }

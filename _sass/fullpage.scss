@@ -1,7 +1,8 @@
 .fullpage {
     
     width: 800px;
-    padding: 60px;
+    // top right bottom left
+    padding: 10px 60px;
 
     // Elements
     &__title {
@@ -9,19 +10,20 @@
             margin-bottom: 2px;
             font-size: 2.5em;
             color: #f149a3;
+            line-height: 1.4em;
         }    
     }
     &__date {
         h4 {
             margin-bottom: 4px;
-            font-size: 1.2em;
+            font-size: 1.4em;
             font-style: italic;
         }      
     }
     &__content {
         p {
             font-family: serif;
-            line-height: 1.2em;
+            line-height: 1.4em;
             margin-bottom: 5px;
             a {
                 color: #7b8aaf;
@@ -45,7 +47,7 @@
             }
             h4 {
                 margin: 0 0 15px 5px;
-                // padding-left: 10px;
+                line-height: 1.4em;
                 font-family: serif;
                 font-weight: normal;
                 a {
@@ -58,6 +60,7 @@
             } 
         }
         h3 {
+            padding-top: 10px;
             margin-bottom: 2px;
             font-size: 1.3em;
             color: #1a44ad;

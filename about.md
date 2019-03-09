@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: About
 ---
-# About page
 
-This page tells you a little bit about me.
+This page could be doing more.

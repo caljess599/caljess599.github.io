@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-12-26 02:29:46
-title: A Christmas Mitzvah
+title: On a Christmas Mitzvah
 ---
 
 Today I went and visited my great-aunt Lillian in the "manor" where she lives in Dania Beach, FL. At my grandmother's direction, I stopped at the Walgreen's (open on Christmas Day, thank you die-hard capitalists!) across the street to buy her some hairspray, which apparently is one of her favorite things and something they are often out of at the Manor's store. It's nice to come bearing gifts. 

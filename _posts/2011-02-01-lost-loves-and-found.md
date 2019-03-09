@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-02-01 15:55:25
-title: "Lost (loves) and found"
+title: On loves lost and found
 ---
 
 I don't know many people who have died, but hardly a week goes by when I don't meet someone new through his or her obituary. Recently, [NPR introduced me to Reynolds Price](http://www.npr.org/2011/01/20/133094306/novelist-professor-reynolds-price-dies), a well known Duke professor and novelist. 
