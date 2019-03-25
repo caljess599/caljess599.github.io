@@ -1,6 +1,6 @@
 ---
 date: 2011-08-01 17:31:16
-title: On swatting flies... and butterflies
+title: On butterflies
 layout: post
 ---
 
